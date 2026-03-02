@@ -1,4 +1,4 @@
-# Hi, I'm jiahongc 👋
+# Hi, I'm Jiahong (Hong) 👋
 
 📍 **Jersey City, NJ** | 💻 **Full-Stack Developer** | 📊 **Finance & AI Enthusiast**
 
