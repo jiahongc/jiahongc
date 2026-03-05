@@ -13,11 +13,11 @@
 
 ## Current Projects
 
-- 🎙️ **[word-io](https://github.com/jiahongc/word-io)** - Bilingual voice recorder (English & Chinese) with AI-powered transcription and grammar enhancement via OpenAI GPT
 - 💸 **[split-share](https://github.com/jiahongc/split-share)** - Expense-sharing app to track group costs, balances, and who owes whom — built with React and Material UI
 - 🔐 **[gmail-otp-filler](https://github.com/jiahongc/gmail-otp-filler)** - Chrome extension that extracts OTP codes from Gmail and auto-fills them into web forms
+- 📺 **[youtube-ad-skip](https://github.com/jiahongc/youtube-ad-skip)** - Chrome extension that auto-clicks YouTube's native skip button for paid promotions and intros
 - 🏥 **[HSA-paperless](https://github.com/jiahongc/HSA-paperless)** - HSA document tracker with OCR autofill, reimbursement status, and Google Drive storage — no accounts needed
-- 📈 **[qqq-tqqq-strategy](https://github.com/jiahongc/qqq-tqqq-strategy)** - Backtesting system for a TQQQ/QQQ strategy using VIX, RSI, and open-to-open signals with year-by-year performance reports
+- 🎙️ **[word-io](https://github.com/jiahongc/word-io)** - Bilingual voice recorder (English & Chinese) with AI-powered transcription and grammar enhancement via OpenAI GPT
 - 💰 **[Wealth-Watch](https://github.com/jiahongc/Wealth-Watch)** - Personal finance tracker with real-time stock prices, portfolio management, watchlist, and budget tracking — built with Next.js and FastAPI
 
 ## What I'm Building
