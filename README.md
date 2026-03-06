@@ -19,6 +19,7 @@
 - 🏥 **[HSA-paperless](https://github.com/jiahongc/HSA-paperless)** - HSA document tracker with OCR autofill, reimbursement status, and Google Drive storage — no accounts needed
 - 🎙️ **[word-io](https://github.com/jiahongc/word-io)** - Bilingual voice recorder (English & Chinese) with AI-powered transcription and grammar enhancement via OpenAI GPT
 - 💰 **[Wealth-Watch](https://github.com/jiahongc/Wealth-Watch)** - Personal finance tracker with real-time stock prices, portfolio management, watchlist, and budget tracking — built with Next.js and FastAPI
+- - ✈️ **[tampermonkey-cathay-pacific-script](https://github.com/jiahongc/tampermonkey-cathay-pacific-script)** – Tampermonkey userscript that automates Cathay Pacific award flight searches across a date range
 
 ## What I'm Building
 
