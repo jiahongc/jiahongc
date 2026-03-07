@@ -1,6 +1,6 @@
 # Hi, I'm Jiahong (Hong) 👋
 
-📍 **Jersey City, NJ** | 💻 **Full-Stack Developer** | 📊 **Finance & AI Enthusiast**
+📍 **Jersey City, NJ** | 💻 **Full-Stack Developer** | 📊 **Finance + AI**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -9,24 +9,24 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-> Building tools that solve real problems — from personal finance to AI-powered productivity apps.
+I build tools I actually use — mostly around finance, automation, and AI.
 
 ## Current Projects
 
-- 💸 **[split-share](https://github.com/jiahongc/split-share)** - Expense-sharing app to track group costs, balances, and who owes whom — built with React and Material UI
-- 🔐 **[gmail-otp-filler](https://github.com/jiahongc/gmail-otp-filler)** - Chrome extension that extracts OTP codes from Gmail and auto-fills them into web forms
-- 📺 **[youtube-ad-skip](https://github.com/jiahongc/youtube-ad-skip)** - Chrome extension that auto-clicks YouTube's native skip button for paid promotions and intros
-- 🏥 **[HSA-paperless](https://github.com/jiahongc/HSA-paperless)** - HSA document tracker with OCR autofill, reimbursement status, and Google Drive storage — no accounts needed
-- 🎙️ **[word-io](https://github.com/jiahongc/word-io)** - Bilingual voice recorder (English & Chinese) with AI-powered transcription and grammar enhancement via OpenAI GPT
-- 💰 **[Wealth-Watch](https://github.com/jiahongc/Wealth-Watch)** - Personal finance tracker with real-time stock prices, portfolio management, watchlist, and budget tracking — built with Next.js and FastAPI
-- ✈️ **[tampermonkey-cathay-pacific-script](https://github.com/jiahongc/tampermonkey-cathay-pacific-script)** – Tampermonkey userscript that automates Cathay Pacific award flight searches across a date range
+- 💸 **[split-share](https://github.com/jiahongc/split-share)** — Expense sharing app for group costs, balances, and who owes what (React + Material UI)
+- 🔐 **[gmail-otp-filler](https://github.com/jiahongc/gmail-otp-filler)** — Chrome extension that pulls OTP codes from Gmail and fills them into forms
+- 📺 **[youtube-ad-skip](https://github.com/jiahongc/youtube-ad-skip)** — Chrome extension that clicks YouTube’s native skip button for paid promos/intros
+- 🏥 **[HSA-paperless](https://github.com/jiahongc/HSA-paperless)** — HSA document tracker with OCR autofill, reimbursement status, and Google Drive storage (no account required)
+- 🎙️ **[word-io](https://github.com/jiahongc/word-io)** — Bilingual voice recorder (English + Chinese) with transcription and grammar cleanup
+- 💰 **[Wealth-Watch](https://github.com/jiahongc/Wealth-Watch)** — Personal finance tracker with stock prices, portfolio/watchlist, and budget tracking (Next.js + FastAPI)
+- ✈️ **[tampermonkey-cathay-pacific-script](https://github.com/jiahongc/tampermonkey-cathay-pacific-script)** — Tampermonkey script to automate Cathay Pacific award-flight searches across date ranges
 
-## What I'm Building
+## What I’m Working On
 
-- 🤖 **Exploring AI integrations** — using OpenAI APIs to add intelligence to everyday tools
-- 📊 **Quantitative finance tools** — backtesting strategies and automating trading workflows
-- 🛠️ **Productivity utilities** — Chrome extensions and web apps that remove friction from daily life
-- 🏃 **Staying active** — marathon runner tracking performance data with Garmin & Apple Watch
+- 🤖 Adding AI features to practical, everyday tools
+- 📊 Building quant/finance workflows (including backtesting)
+- 🛠️ Making small utilities that save time day to day
+- 🏃 Training for races and tracking performance with Garmin + Apple Watch
 
 ## GitHub Activity
 
@@ -38,4 +38,4 @@
 
 ---
 
-> "Ship beats perfect" — I build tools to solve my own problems, then share them with the world.
+> Ship beats perfect.
