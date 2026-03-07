@@ -1,6 +1,7 @@
-# Hi, I'm Jiahong (Hong) 👋
+# Hey, I’m Jiahong (Hong) 👋
 
-📍 **Jersey City, NJ** | 💻 **Full-Stack Developer** | 📊 **Finance + AI**
+I’m a full-stack builder in Jersey City, mostly working on finance, automation, and AI side projects.
+I like shipping useful things fast and improving them in the open.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -9,33 +10,31 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-I build tools I actually use — mostly around finance, automation, and AI.
+## What I’m building
 
-## Current Projects
+- 💸 **[split-share](https://github.com/jiahongc/split-share)** — track group expenses, balances, and who owes what
+- 🔐 **[gmail-otp-filler](https://github.com/jiahongc/gmail-otp-filler)** — grabs OTPs from Gmail and fills them into forms
+- 📺 **[youtube-ad-skip](https://github.com/jiahongc/youtube-ad-skip)** — skips YouTube sponsored/promotional segments using native controls
+- 🏥 **[HSA-paperless](https://github.com/jiahongc/HSA-paperless)** — OCR-based HSA doc tracker and reimbursement workflow
+- 🎙️ **[word-io](https://github.com/jiahongc/word-io)** — bilingual (EN/中文) voice recorder with AI transcription + cleanup
+- 💰 **[Wealth-Watch](https://github.com/jiahongc/Wealth-Watch)** — portfolio + budget tracker (Next.js + FastAPI)
+- ✈️ **[tampermonkey-cathay-pacific-script](https://github.com/jiahongc/tampermonkey-cathay-pacific-script)** — automates Cathay award search across date ranges
 
-- 💸 **[split-share](https://github.com/jiahongc/split-share)** — Expense sharing app for group costs, balances, and who owes what (React + Material UI)
-- 🔐 **[gmail-otp-filler](https://github.com/jiahongc/gmail-otp-filler)** — Chrome extension that pulls OTP codes from Gmail and fills them into forms
-- 📺 **[youtube-ad-skip](https://github.com/jiahongc/youtube-ad-skip)** — Chrome extension that clicks YouTube’s native skip button for paid promos/intros
-- 🏥 **[HSA-paperless](https://github.com/jiahongc/HSA-paperless)** — HSA document tracker with OCR autofill, reimbursement status, and Google Drive storage (no account required)
-- 🎙️ **[word-io](https://github.com/jiahongc/word-io)** — Bilingual voice recorder (English + Chinese) with transcription and grammar cleanup
-- 💰 **[Wealth-Watch](https://github.com/jiahongc/Wealth-Watch)** — Personal finance tracker with stock prices, portfolio/watchlist, and budget tracking (Next.js + FastAPI)
-- ✈️ **[tampermonkey-cathay-pacific-script](https://github.com/jiahongc/tampermonkey-cathay-pacific-script)** — Tampermonkey script to automate Cathay Pacific award-flight searches across date ranges
+## Right now
 
-## What I’m Working On
+- Adding practical AI features to everyday tools
+- Building quant/finance workflows (including backtesting)
+- Creating small utilities that save clicks and time
+- Training for races and tracking data with Garmin + Apple Watch
 
-- 🤖 Adding AI features to practical, everyday tools
-- 📊 Building quant/finance workflows (including backtesting)
-- 🛠️ Making small utilities that save time day to day
-- 🏃 Training for races and tracking performance with Garmin + Apple Watch
-
-## GitHub Activity
+## GitHub activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/jiahongc)
 
-## Connect
+## Find me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiahongc)
 
 ---
 
-> Ship beats perfect.
+> Ship > perfect.
