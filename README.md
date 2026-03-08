@@ -14,7 +14,7 @@ I like shipping useful things fast and improving them in the open.
 
 - 💸 **[split-share](https://github.com/jiahongc/split-share)** — track group expenses, balances, and who owes what
 - 🔐 **[gmail-otp-filler](https://github.com/jiahongc/gmail-otp-filler)** — grabs OTPs from Gmail and fills them into forms
-- 📺 **[youtube-ad-skip](https://github.com/jiahongc/youtube-ad-skip)** — skips YouTube sponsored/promotional segments using native controls
+– 📺 **[youtube-skip-assist](https://github.com/jiahongc/youtube-skip-assist)** — skips YouTube sponsored/promotional segments using native controls
 - 🏥 **[HSA-paperless](https://github.com/jiahongc/HSA-paperless)** — OCR-based HSA doc tracker and reimbursement workflow
 - 🎙️ **[word-io](https://github.com/jiahongc/word-io)** — bilingual (EN/中文) voice recorder with AI transcription + cleanup
 - 💰 **[Wealth-Watch](https://github.com/jiahongc/Wealth-Watch)** — portfolio + budget tracker (Next.js + FastAPI)
