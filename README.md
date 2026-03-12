@@ -12,7 +12,7 @@ I like shipping useful things fast and improving them in the open.
 
 ## What I'm building
 
-- 💳 **[credit-card-skills](https://github.com/jiahongc/credit-card-skills)** – credit card optimization tools and scripts **(new)**
+- 💳 **[credit-card-skills](https://github.com/jiahongc/credit-card-skills)** – agent skills suite for researching US credit cards **(new)**
 - ✈️ **[tampermonkey-cathay-pacific-script](https://github.com/jiahongc/tampermonkey-cathay-pacific-script)** – automates Cathay award search across date ranges
 - 🖥️ **[youtube-skip-assist](https://github.com/jiahongc/youtube-skip-assist)** – skips YouTube sponsored/promotional segments using native controls
 - 🔐 **[otp-filler-for-gmail-extension](https://github.com/jiahongc/otp-filler-for-gmail-extension)** – grabs OTPs from Gmail and fills them into forms
