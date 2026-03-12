@@ -12,13 +12,14 @@ I like shipping useful things fast and improving them in the open.
 
 ## What I'm building
 
-- 💸 **[split-share](https://github.com/jiahongc/split-share)** – track group expenses, balances, and who owes what
-- 🔐 **[otp-filler-for-gmail-extension](https://github.com/jiahongc/otp-filler-for-gmail-extension)** – grabs OTPs from Gmail and fills them into forms
+- 💳 **[credit-card-skills](https://github.com/jiahongc/credit-card-skills)** – credit card optimization tools and scripts
+- ✈️ **[tampermonkey-cathay-pacific-script](https://github.com/jiahongc/tampermonkey-cathay-pacific-script)** – automates Cathay award search across date ranges
 - 🖥️ **[youtube-skip-assist](https://github.com/jiahongc/youtube-skip-assist)** – skips YouTube sponsored/promotional segments using native controls
+- 🔐 **[otp-filler-for-gmail-extension](https://github.com/jiahongc/otp-filler-for-gmail-extension)** – grabs OTPs from Gmail and fills them into forms
 - 🧸 **[HSA-paperless](https://github.com/jiahongc/HSA-paperless)** – OCR-based HSA doc tracker and reimbursement workflow
+- 💸 **[split-share](https://github.com/jiahongc/split-share)** – track group expenses, balances, and who owes what
 - 🎤 **[word-io](https://github.com/jiahongc/word-io)** – bilingual (EN/中文) voice recorder with AI transcription + cleanup
 - 💰 **[Wealth-Watch](https://github.com/jiahongc/Wealth-Watch)** – portfolio + budget tracker (Next.js + FastAPI)
-- ✈️ **[tampermonkey-cathay-pacific-script](https://github.com/jiahongc/tampermonkey-cathay-pacific-script)** – automates Cathay award search across date ranges
 
 ## Right now
 
