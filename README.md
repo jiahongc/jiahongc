@@ -9,17 +9,18 @@ I like shipping useful things fast and improving them in the open.
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 ## What I'm building
 
-- 💳 **[credit-card-skills](https://github.com/jiahongc/credit-card-skills)** – agent skills suite for researching US credit cards **(new)**
-- ✈️ **[tampermonkey-cathay-pacific-script](https://github.com/jiahongc/tampermonkey-cathay-pacific-script)** – automates Cathay award search across date ranges
-- 🖥️ **[youtube-skip-assist](https://github.com/jiahongc/youtube-skip-assist)** – skips YouTube sponsored/promotional segments using native controls
+- 🖥️ **[cc-companion](https://github.com/jiahongc/cc-companion)** – desktop companion app for Claude Code: monitors instances and serves curated content while you wait **(new)**
+- 🏀 **[march-madness-prediction-market](https://github.com/jiahongc/march-madness-prediction-market)** – live NCAA March Madness 2026 bracket with Polymarket odds, payout calculator, and live scores **(new)**
+- 🗂️ **[credit-card-skills](https://github.com/jiahongc/credit-card-skills)** – agent skills suite for researching US credit cards **(new)**
+- 🛫 **[tampermonkey-cathay-pacific-script](https://github.com/jiahongc/tampermonkey-cathay-pacific-script)** – automates Cathay award search across date ranges
+- 📺 **[youtube-skip-assist](https://github.com/jiahongc/youtube-skip-assist)** – skips YouTube sponsored/promotional segments using native controls
 - 🔐 **[otp-filler-for-gmail-extension](https://github.com/jiahongc/otp-filler-for-gmail-extension)** – grabs OTPs from Gmail and fills them into forms
-- 🧸 **[HSA-paperless](https://github.com/jiahongc/HSA-paperless)** – OCR-based HSA doc tracker and reimbursement workflow
+- 🧾 **[HSA-paperless](https://github.com/jiahongc/HSA-paperless)** – OCR-based HSA doc tracker and reimbursement workflow
 - 💸 **[split-share](https://github.com/jiahongc/split-share)** – track group expenses, balances, and who owes what
-- 🎤 **[word-io](https://github.com/jiahongc/word-io)** – bilingual (EN/中文) voice recorder with AI transcription + cleanup
-- 💰 **[Wealth-Watch](https://github.com/jiahongc/Wealth-Watch)** – portfolio + budget tracker (Next.js + FastAPI)
 
 ## Right now
 
@@ -34,7 +35,7 @@ I like shipping useful things fast and improving them in the open.
 
 ## Find me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiahongc)
+[![GitHub](https://img.shields.io/badge/-GitHub-1B1717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiahongc)
 
 ---
 
