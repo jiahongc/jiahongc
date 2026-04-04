@@ -23,17 +23,12 @@ I'm a full-stack builder in Jersey City, mostly working on finance, automation, 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiahongc&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://ghchart.rshah.org/jiahongc" alt="GitHub Contribution Graph" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiahongc&theme=default" alt="Contribution Graph by Year" />
 </p>
-
 
 ## Find me
 
