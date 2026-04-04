@@ -30,9 +30,24 @@ I like shipping useful things fast and improving them in the open.
 - Creating small utilities that save clicks and time
 - Training for races and tracking data with Garmin + Apple Watch
 
-## GitHub activity
+## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/jiahongc)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiahongc&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiahongc&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiahongc&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/jiahongc" alt="GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiahongc&theme=default" alt="Contribution Graph by Year" />
+</p>
 
 ## Find me
 
