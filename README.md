@@ -44,15 +44,6 @@ I like shipping useful things fast and improving them in the open.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiahongc&theme=default" alt="Contribution Graph by Year" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jiahongc&theme=default" alt="Stats" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jiahongc&theme=default&utcOffset=-4" alt="Commits by Time" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiahongc&theme=default" alt="Top Languages by Repo" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiahongc&theme=default" alt="Top Languages by Commit" height="170" />
-</p>
 
 ## Find me
 
