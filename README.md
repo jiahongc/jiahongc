@@ -4,6 +4,7 @@ I'm a full-stack builder in Jersey City, mostly working on finance, automation, 
 
 ## What I'm building
 
+- 📸 **[instagram-web-ad-skip-extension](https://github.com/jiahongc/instagram-web-ad-skip-extension)** – Chrome extension that auto-skips Sponsored reels, stories, and feed ads on instagram.com **(new)**
 - 🌍 **[travel-points-rewards-skills](https://github.com/jiahongc/travel-points-rewards-skills)** – agent skills act as a live travel research assistant with destination briefings, points/miles guidance, and dual-language support **(new)**
 - 🖥️ **[cc-companion](https://github.com/jiahongc/cc-companion)** – desktop companion app for Claude Code: monitors instances and serves curated content while you wait **(new)**
 - ✈️ **[google-flights-seats-aero-extension](https://github.com/jiahongc/google-flights-seats-aero-extension)** – Chrome extension that adds award flight search buttons to Google Flights, opening seats.aero with filters pre-filled **(new)**
