@@ -5,6 +5,7 @@ I'm a full-stack builder in Jersey City, mostly working on finance, automation, 
 ## What I'm building
 
 - 🏃 **[Mile Zero](https://milezerorunning.com)** – a quiet, deliberate marathon training app that shows one thing at a time: today's run, the week you're building, the race you're earning. Strava/Garmin sync, Gemini coaching, zero ads. **[milezerorunning.com ›](https://milezerorunning.com)** **(new)**
+- 🏁 **[running-race-results](https://github.com/jiahongc/running-race-results)** – CLI to look up a runner's race result by name + bib across NYRR, Mika Timing, Athlinks, and RaceResult **(new)**
 - 🌍 **[travel-points-rewards-skills](https://github.com/jiahongc/travel-points-rewards-skills)** – agent skills act as a live travel research assistant with destination briefings, points/miles guidance, and dual-language support **(new)**
 - 🖥️ **[cc-companion](https://github.com/jiahongc/cc-companion)** – desktop companion app for Claude Code: monitors instances and serves curated content while you wait **(new)**
 - ✈️ **[google-flights-seats-aero-extension](https://github.com/jiahongc/google-flights-seats-aero-extension)** – Chrome extension that adds award flight search buttons to Google Flights, opening seats.aero with filters pre-filled, plus inline cash prices and cents-per-point on seats.aero results. **[Live on the Chrome Web Store ›](https://chromewebstore.google.com/detail/seatsaero-for-google-flig/ambcknffmlijhfdlchngfhakmldelgoe)**
