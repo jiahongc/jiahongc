@@ -14,7 +14,7 @@ I'm a full-stack builder in Jersey City, mostly working on finance, automation, 
 ### Running/Training
 
 - 🎽 **[Bib Book](https://bib-book.com)** – turns race bib photos into running memories with cleaned images, automatic race-detail reads, and a private searchable archive. **(new)**
-- 🏃 **[Mile Zero](https://milezerorunning.com)** – a quiet, deliberate marathon training app that shows one thing at a time: today's run, the week you're building, the race you're earning. Strava/Garmin sync, Gemini coaching, zero ads. **[milezerorunning.com ›](https://milezerorunning.com)** **(new)**
+- 🏃 **[Mile Zero](https://milezerorunning.com)** – a quiet, deliberate marathon training app that shows one thing at a time: today's run, the week you're building, the race you're earning. Strava/Garmin sync, Gemini coaching, zero ads. **(new)**
 - ⌚ **[garmin-connect-workout-cli](https://github.com/jiahongc/garmin-connect-workout-cli)** – Go CLI that turns plain-English running workouts into Garmin Connect workouts and schedules them after browser-based login. **(new)**
 - 🏁 **[running-race-results](https://github.com/jiahongc/running-race-results)** – CLI to look up a runner's race result by name + bib across NYRR, Mika Timing, Athlinks, and RaceResult **(new)**
 
