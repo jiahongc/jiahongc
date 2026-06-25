@@ -20,7 +20,6 @@ I'm a full-stack builder in Jersey City, mostly working on finance, automation, 
 
 ### Finance
 
-- 🏀 **[march-madness-prediction-market](https://github.com/jiahongc/march-madness-prediction-market)** – live NCAA March Madness 2026 bracket with Polymarket odds, payout calculator, and live scores. **[Live ›](https://march-madness-prediction-market.vercel.app)**
 - 🧾 **[HSA-paperless](https://github.com/jiahongc/HSA-paperless)** – OCR-based HSA doc tracker and reimbursement workflow. **[Live ›](https://hsa-paperless.vercel.app)**
 - 💸 **[split-share](https://github.com/jiahongc/split-share)** – track group expenses, balances, and who owes what. **[Live ›](https://split-share-tawny.vercel.app)**
 
